@@ -1,0 +1,17 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Файл с токеном
+.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Логи
+*.log
+
+# Файлы IDE
+.vscode/
+.DS_Store
